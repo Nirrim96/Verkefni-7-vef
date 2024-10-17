@@ -14,6 +14,9 @@
   "devDependencies": {
     "browser-sync": "^3.0.3",
     "concurrently": "^9.0.1",
-    "cpy-cli": "^5.0.0"
-  }
+    "cpy-cli": "^5.0.0",
+    "sass": "^1.80.2",
+    "stylelint": "^16.10.0"
+  },
+  "description": "- [Vefforritun 1, 2024, fyrirlestur 8.4: Verkefni 7](https://www.youtube.com/watch?v=vpFY_TrU_LY) - [Vefforritun 1, 2024, fyrirlestur 9.1: Meira um verkefni 7](https://www.youtube.com/watch?v=NxU6MWE5quk) - [Vefforritun 1, 2024, fyrirlestur 9.2: Verkefni 7 og Netlify](https://www.youtube.com/watch?v=hKB-L_BJ6aE)"
 }
